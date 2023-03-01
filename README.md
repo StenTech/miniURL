@@ -1,2 +1,2 @@
 # miniURL
-a bit more service to provive URL shortness service.
+a bit more service to provive URL shortness service as BitLy
